@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txtSiguiente">Siguiente</string>
+
+    <string name="nombre">Nombre completo</string>
+    <string name="fecha">Fecha</string>
+    <string name="telefono">Telefono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripcion Contacto</string>
+
+    <string name="pnombre">nombre</string>
+    <string name="pfecha">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+
+    <string name="tituloConfirmar">Confirmar Datos</string>
+    <string name="editar">Editar Datos</string>
+</resources>
